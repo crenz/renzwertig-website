@@ -24,7 +24,7 @@ date_format: "2006"
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_start: "2001-01-01"
-  organization: 2B1
+  organization: 2B1, Indonesia
   organization_url: ""
   title: 2B1
   url: ""
