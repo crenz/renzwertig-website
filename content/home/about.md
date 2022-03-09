@@ -8,6 +8,6 @@ active: true
 author: admin
 design:
   background:
-    gradient_start: rgba(71, 174, 247, 0.38)
-    gradient_end: "#47aef7"
+#    gradient_start: rgba(71, 174, 247, 0.38)
+#    gradient_end: "#47aef7"
 ---

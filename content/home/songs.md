@@ -12,6 +12,8 @@ weight: 70
 title: Songs
 subtitle:
 
+date_format: "2006"
+
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: song

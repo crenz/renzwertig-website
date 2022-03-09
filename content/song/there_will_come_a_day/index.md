@@ -1,4 +1,4 @@
----
+---  
 title: "There Will Come A Day"
 
 # Authors
@@ -12,7 +12,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-#date: "2014-04-01T00:00:00Z"
+date: "2014-04-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
