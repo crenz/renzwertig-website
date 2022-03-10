@@ -14,7 +14,7 @@ role: bassist. songwriter.
 #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bassist, Songwriting, Arrangement for live gigs and studio productions.
+#bio: Bassist, Songwriting, Arrangement for live gigs and studio productions.
 
 # Interests to show in About widget
 #interests:
@@ -76,5 +76,9 @@ email: ""
 highlight_name: true
 ---
 
-Christian Renz, Berlin/Germany.
-Bassist, Songwriting, Arrangement for live gigs and studio productions.
+I'm a bassist and songwriter based in Berlin/Germany, available for live gigs and studio productions.
+
+Some of my music is available on [Spotify](https://open.spotify.com/artist/1Bm9n5jSbtH7D5brfvlLWf?si=-sXJ9vD7Sz-o3bM636ZB0A) and [Apple Music](https://music.apple.com/us/artist/christian-renz/1612983248).
+
+I use [Soundcloud](https://soundcloud.com/renzwertig) as my creative playground. 
+
