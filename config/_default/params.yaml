@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Christian Renz, Berlin/Germany. Bassist, Songwriting, Arrangement for live gigs and studio productions.'
     twitter: 'crenz'
   analytics:
     google_analytics: ''
@@ -41,12 +41,13 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+#    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Christian Renz'
+#    license:
+#      enable: true
+#      allow_derivatives: false
+#      share_alike: true
+#      allow_commercial: false
 
 # Localization
 

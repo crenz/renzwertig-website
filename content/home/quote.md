@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Quote
 headless: true
-weight: 10
+weight: 5
 title: " "
 subtitle: ""
 active: true
@@ -22,5 +22,4 @@ design:
       - 20px
 ---
 
-*_The bass player builds the house that all other players get to live in._*  
-– _Abraham Laboriel_
+_**“The bass player builds the house that all other players get to live in.”** --Abraham Laboriel_

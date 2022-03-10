@@ -18,7 +18,7 @@ content:
   # Page type to display. E.g. post, event, publication...
   page_type: song
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   # Filter on criteria
   filters:
     author: ""
@@ -39,5 +39,6 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: compact
+  columns: '2'
 ---

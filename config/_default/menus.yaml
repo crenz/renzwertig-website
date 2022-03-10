@@ -7,18 +7,14 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Music
-    url: '#music'
-    identifier: music
-    weight: 20
-  - name: Songs
-    url: '#songs'
-    weight: 30
-  - name: Projects
-    url: '#projects'
-    weight: 40
   - name: Discography
     url: '#discography'
+    weight: 20
+  - name: Projects
+    url: '#projects'
+    weight: 30
+  - name: Songs
+    url: '#songs'
     weight: 40
   - name: Contact
     url: '#contact'

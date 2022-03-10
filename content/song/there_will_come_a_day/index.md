@@ -29,7 +29,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: " "
 
-tags: [easter]
+tags: [easter, english, worship]
 
 # Display this page in the Featured widget?
 featured: true
@@ -79,7 +79,8 @@ There will come a day
 Where depression turns into joy  
 Every sickness will find healing  
 And fear will give way to hope  
-There will come a day, there will come a day  
+There will come a day  
+There will come a day  
 
 There will come a day  
 Every slave will be set free  
@@ -87,7 +88,8 @@ There will come a day
 Where there‘s no more poverty  
 Where victims will be kings and rulers  
 And debt will be dethroned  
-There will come a day, there will come a day  
+There will come a day  
+There will come a day  
 
 This is our hope, this is our faith  
 That Christ will make all things new  
@@ -102,10 +104,51 @@ On that very day
 We will see him face to face  
 God will make his home amongst us  
 And his children will be revealed  
-We will see that day, we will see that day  
+We will see that day  
+We will see that day  
 
 Every prayer, every word, every deed and every song we wrote  
 Will find their place in the kingdom of our God  
 Our art and our poetry, fellowship and community  
 Our labour here will not be in vain  
 We will see that day  
+
+© Christian Renz 2014
+
+### Chinese Translation
+有朝一日  
+
+V1  
+有朝一日  
+泪水轻拂拭去  
+欢乐消融抑郁  
+伤痛得以疗治  
+希望驱逐畏惧  
+
+V2  
+有朝一日  
+奴隶者脱锁链  
+穷困者得丰膳  
+牺牲者获尊崇  
+欠债者容宽免  
+
+C1  
+此吾之所望,此吾之所信  
+蒙救主重建庇荫  
+笃信者逝而返真  
+孕万物各安其位  
+圣日依主意而临  
+
+V3  
+惟圣日降临  
+羔羊停止疾奔  
+虔诚直面牧者  
+天国始行人间  
+神之众子显现  
+
+C2  
+祈祷、善言、义举、颂歌  
+于天国中各得其所  
+艺术、诗歌、友谊、宗社  
+付出回报相随相和  
+那日,有福者必见得  
