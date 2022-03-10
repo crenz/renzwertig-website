@@ -115,8 +115,7 @@ We will see that day
 
 © Christian Renz 2014
 
-### Chinese Translation
-有朝一日  
+### 有朝一日  
 
 V1  
 有朝一日  
@@ -152,3 +151,5 @@ C2
 艺术、诗歌、友谊、宗社  
 付出回报相随相和  
 那日,有福者必见得  
+
+_Chinese translation by Alyvan Luz_

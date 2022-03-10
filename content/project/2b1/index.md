@@ -2,11 +2,11 @@
 _build:
   render: never
   list: always
-title: Chorios – Menschen
-summary: Bass, Keyboards, Drum Programming, Arrangement
+title: 2B1 - 2B1
+summary: Bass, Drum Programming
 tags:
 - Album
-date: 2006-01-06T12:00:00.000Z
+date: 2001-01-01T12:00:00.000Z
 
 # external_link: http://example.org
 external_link: 

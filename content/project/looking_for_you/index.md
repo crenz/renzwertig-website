@@ -1,7 +1,6 @@
 ---
-title: Looking For You
-subtitle: The Gospel House
-summary: Summary summary summary
+title: The Gospel House – Looking For You
+summary: Bass
 tags:
 - Album
 date: 2008-01-06T12:00:00.000Z
@@ -22,4 +21,6 @@ links:
     icon: spotify
     name: Spotify
     url: 'https://open.spotify.com/album/6Q6w3AU1vqP5lFXjHUutZp'
+  - name: Website
+    url: 'https://www.thegospelhouse.de/index.php/thegospelhouse'
 ---
