@@ -78,7 +78,5 @@ highlight_name: true
 
 I'm a bassist and songwriter based in Berlin/Germany, available for live gigs and studio productions.
 
-Some of my music is available on [Spotify](https://open.spotify.com/artist/1Bm9n5jSbtH7D5brfvlLWf?si=-sXJ9vD7Sz-o3bM636ZB0A) and [Apple Music](https://music.apple.com/us/artist/christian-renz/1612983248).
-
-I use [Soundcloud](https://soundcloud.com/renzwertig) as my creative playground. 
+Some of my music is available on [Spotify](https://open.spotify.com/artist/1Bm9n5jSbtH7D5brfvlLWf?si=-sXJ9vD7Sz-o3bM636ZB0A) and [Apple Music](https://music.apple.com/us/artist/christian-renz/1612983248). I also use [Soundcloud](https://soundcloud.com/renzwertig) as a creative work space. 
 
