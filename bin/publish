@@ -1,0 +1,3 @@
+#!/bin/sh
+
+hugo && rsync -avz --delete public/ crenz@web42.com:public_html/renzwertig.de/ && rm -fr public/

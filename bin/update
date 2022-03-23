@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# development version
+# hugo mod get -u ./...
+
+# release version
+hugo mod get -u
+
+git pull
