@@ -3,6 +3,7 @@ title: The Gospel House – Looking For You
 summary: Bass
 tags:
 - Album
+- Studio
 date: 2008-01-06T12:00:00.000Z
 
 # external_link: http://example.org

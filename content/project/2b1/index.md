@@ -6,6 +6,7 @@ title: 2B1 - 2B1
 summary: Bass, Drum Programming
 tags:
 - Album
+- Studio
 date: 2001-01-01T12:00:00.000Z
 
 # external_link: http://example.org

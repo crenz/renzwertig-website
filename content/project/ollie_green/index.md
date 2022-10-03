@@ -6,6 +6,7 @@ title: Ollie Green – Hold On
 summary: Bass
 tags:
 - Album
+- Studio
 date: 2008-01-01T12:00:00.000Z
 
 # external_link: http://example.org

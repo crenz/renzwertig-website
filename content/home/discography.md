@@ -62,6 +62,11 @@ item:
   organization_url: https://www.klangreim.de
   title: Psalmpoet
   url: https://psalmpoet.de
+- date_start: "2022-07-01"
+  organization: Gospel im Osten
+  organization_url: https://www.gospelimosten.de
+  title: Window of Hope
+  url: https://www.youtube.com/watch?v=x_JINFHP0RA
 design:
   columns: '2' 
 ---

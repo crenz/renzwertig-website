@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Album
-    tag: Album
+  - name: Studio
+    tag: Studio
+  - name: Live
+    tag: Live
   - name: Theatre
     tag: Theatre
 

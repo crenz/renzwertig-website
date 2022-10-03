@@ -6,6 +6,7 @@ title: Karsten Schneider – Psalmpoet
 summary: Bass
 tags:
 - Album
+- Studio
 date: 2018-01-01T12:00:00.000Z
 
 # external_link: http://example.org

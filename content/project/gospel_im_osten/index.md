@@ -2,15 +2,15 @@
 _build:
   render: never
   list: always
-title: Diversity Praiz - Power On Tour
+title: Gospel im Osten - Window of Hope
 summary: Bass
 tags:
-- Tour
+- Concert
 - Live
-date: 2008-01-01T12:00:00.000Z
+date: 2022-07-01T12:00:00.000Z
 
 # external_link: http://example.org
-external_link: https://www.youtube.com/user/diversitypraiz
+external_link: https://www.gospelimosten.de
 
 draft: false
 featured: false
@@ -24,7 +24,7 @@ links:
   - icon_pack: fab
     icon: youtube
     name: YouTube
-    url: 'https://www.youtube.com/user/diversitypraiz'
+    url: 'https://www.youtube.com/watch?v=x_JINFHP0RA'
 
 ---
 

@@ -6,6 +6,7 @@ title: Panta Rei – Olo s'echo sto myalo mou
 summary: Bass
 tags:
 - Album
+- Studio
 date: 2010-01-01T12:00:00.000Z
 
 # external_link: http://example.org
