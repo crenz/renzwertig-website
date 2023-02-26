@@ -67,6 +67,11 @@ item:
   organization_url: https://www.gospelimosten.de
   title: Window of Hope
   url: https://www.youtube.com/watch?v=x_JINFHP0RA
+- date_start: "2022-12-01"
+  organization: Martin Pepper
+  organization_url: https://www.martinpepper.de/
+  title: Funkenflug
+  url: https://www.youtube.com/watch?v=x_JINFHP0RA
 design:
   columns: '2' 
 ---
