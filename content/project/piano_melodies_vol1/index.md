@@ -2,14 +2,14 @@
 _build:
   render: never
   list: always
-title: Martin Pepper - Funkenflug
+title: Martin Pepper - Piano Melodies Vol. 1
 tags:
 - Album
 - Studio
-date: 2022-12-01T12:00:00.000Z
+date: 2023-10-01T12:00:00.000Z
 
 # external_link: http://example.org
-external_link: https://www.martinpepper.de/funkenflug/
+external_link: https://martinpepper.de/piano-melodies-vol-1/
 
 draft: false
 featured: false
@@ -21,9 +21,9 @@ image:
 
 links:
   - name: YouTube
-    url: 'https://www.youtube.com/watch?v=xR_WuG2t_ls'
+    url: 'https://www.youtube.com/watch?v=o2mQvJGEm4Q'
   - name: Website
-    url: 'https://www.martinpepper.de/funkenflug/'
+    url: 'https://martinpepper.de/piano-melodies-vol-1/'
 
 ---
 

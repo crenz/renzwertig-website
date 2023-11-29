@@ -3,6 +3,7 @@ _build:
   render: never
   list: always
 title: The Players Theatre – The Meg & Mog Show
+summary: Production
 tags:
 - Theatre
 date: 2009-01-01T12:00:00.000Z

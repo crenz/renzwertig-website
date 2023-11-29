@@ -1,5 +1,6 @@
 ---
 title: The Gospel House – Looking For You
+summary: Bass
 tags:
 - Album
 - Studio

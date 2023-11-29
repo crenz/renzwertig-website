@@ -62,6 +62,10 @@ social:
     link: https://soundcloud.com/renzwertig
     icon: soundcloud
 
+banner:
+  image: 'christian-hsn.jpg'
+#  caption: 'Image credit: [**Geo**](https://github.com/gcushen/)'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.

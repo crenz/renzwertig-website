@@ -3,7 +3,6 @@ _build:
   render: never
   list: always
 title: 2B1 - 2B1
-summary: Bass, Drum Programming
 tags:
 - Album
 - Studio

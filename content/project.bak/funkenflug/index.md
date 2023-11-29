@@ -3,6 +3,7 @@ _build:
   render: never
   list: always
 title: Martin Pepper - Funkenflug
+summary: Production
 tags:
 - Album
 - Studio

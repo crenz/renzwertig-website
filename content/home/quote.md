@@ -1,11 +1,12 @@
 ---
+draft: true
 widget: blank
 widget_id: Quote
 headless: true
 weight: 5
 title: " "
 subtitle: ""
-active: true
+active: false
 design:
   columns: "2"
   background:
@@ -23,3 +24,5 @@ design:
 ---
 
 _**“The bass player builds the house that all other players get to live in.”** --Abraham Laboriel_
+
+{ {< gallery album="discography" >} }

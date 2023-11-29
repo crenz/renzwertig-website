@@ -1,5 +1,6 @@
 ---
 title: Songs for Shanghai
+summary: Songwriting, Production
 tags:
 - Album
 - Studio
@@ -18,11 +19,11 @@ image:
 
 links:
   - icon_pack: fab
-    name: Apple Music
-    icon: apple
-    url: 'https://music.apple.com/us/album/songs-for-shanghai-single/1613058837?uo=4&app=music&at=1001lry3&ct=dashboard'
-  - icon_pack: fab
     icon: spotify
     name: Spotify
     url: 'https://open.spotify.com/album/2UBt7b67QbA8N6l6DKs6UB'
+  - icon_pack: fab
+    name: Apple Music
+    icon: apple
+    url: 'https://music.apple.com/us/album/songs-for-shanghai-single/1613058837?uo=4&app=music&at=1001lry3&ct=dashboard'
 ---

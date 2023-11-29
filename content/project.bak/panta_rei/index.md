@@ -3,6 +3,7 @@ _build:
   render: never
   list: always
 title: Panta Rei – Olo s'echo sto myalo mou
+summary: Bass
 tags:
 - Album
 - Studio

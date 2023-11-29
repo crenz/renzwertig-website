@@ -3,6 +3,7 @@ _build:
   render: never
   list: always
 title: Karsten Schneider – Psalmpoet
+summary: Bass
 tags:
 - Album
 - Studio

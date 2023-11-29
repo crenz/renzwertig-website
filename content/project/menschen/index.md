@@ -3,7 +3,6 @@ _build:
   render: never
   list: always
 title: Chorios – Menschen
-summary: Bass, Keyboards, Drum Programming, Arrangement
 tags:
 - Album
 - Studio
